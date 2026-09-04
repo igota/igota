@@ -36,3 +36,10 @@ Desenvolvedor focado em sistemas internos para o setor de saúde — automação
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igota&layout=compact&hide=jupyter%20notebook&langs_count=8" alt="Top linguagens" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/?username=igota&show_icons=true&hide_title=true&count_private=true" alt="Estatísticas do GitHub" />
 </p>
+
+## 📌 Projetos
+
+- **[mapa-ccg](https://github.com/igota/mapa-ccg)** — Mapa de leitos do centro cirúrgico, com captura automática de dados do sistema Vitae.
+- **[leito-clean-docker](https://github.com/igota/leito-clean-docker)** — Sistema de gestão de limpeza de leitos hospitalares, containerizado com Docker.
+- **[transferencia-usuario-vitae](https://github.com/igota/transferencia-usuario-vitae)** — Web app para transferência de unidade no sistema Vitae.
+- **[bot-wpp-ia-nti](https://github.com/igota/bot-wpp-ia-nti)** — Bot de WhatsApp com automação via Node.js e backend em Flask.
