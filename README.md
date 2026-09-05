@@ -1,4 +1,4 @@
-# Olá, eu sou o Igor 👋
+
 
 Desenvolvedor focado em sistemas internos para o setor de saúde — automação de processos hospitalares, integração com sistemas legados e painéis em tempo real.
 
