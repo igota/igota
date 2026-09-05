@@ -30,12 +30,7 @@ Desenvolvedor focado em sistemas internos para o setor de saúde — automação
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
-## 📊 Estatísticas
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igota&layout=compact&hide=jupyter%20notebook&langs_count=8" alt="Top linguagens" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/?username=igota&show_icons=true&hide_title=true&count_private=true" alt="Estatísticas do GitHub" />
-</p>
 
 ## 📌 Projetos
 
