@@ -43,3 +43,4 @@ Desenvolvedor focado em sistemas internos para o setor de saúde — automação
 - **[leito-clean-docker](https://github.com/igota/leito-clean-docker)** — Sistema de gestão de limpeza de leitos hospitalares, containerizado com Docker.
 - **[transferencia-usuario-vitae](https://github.com/igota/transferencia-usuario-vitae)** — Web app para transferência de unidade no sistema Vitae.
 - **[bot-wpp-ia-nti](https://github.com/igota/bot-wpp-ia-nti)** — Bot de WhatsApp com automação via Node.js e backend em Flask.
+- **[etiqueta-at](https://github.com/igota/etiqueta-at)** — Gerador de etiquetas de pacientes do banco de sangue (Agência Transfusional) para os hospitais ISGH/HRN.
